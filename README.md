@@ -109,3 +109,8 @@ Base de données indépendante par service
 Cette architecture illustre une approche moderne, évolutive et maintenable pour une application microservices.
 Elle peut être enrichie avec la sécurité, Docker, Kubernetes, monitoring, etc.
 
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/eurekaserver/tp20-1.PNG
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/clientserver/tp20-2.PNG
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/servicegateway/tp20-3.PNG
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/clientserver/tp20-2.PNG
+
