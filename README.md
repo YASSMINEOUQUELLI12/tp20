@@ -28,6 +28,13 @@ Projet généré via Spring Initializr avec la dépendance :
 
 Eureka Server
 
+
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/eurekaserver/tp20-1.PNG
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/clientserver/tp20-2.PNG
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/servicegateway/tp20-3.PNG
+https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/clientserver/tp20-2.PNG
+
+
 ### 🏁 Classe principale
 ```java
 @EnableEurekaServer
@@ -94,11 +101,6 @@ GET http://localhost:8888/SERVICE-CLIENT/api/client
 Liste des voitures :
 GET http://localhost:8888/SERVICE-VOITURE/api/cars
 
-
-https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/eurekaserver/tp20-1.PNG
-https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/clientserver/tp20-2.PNG
-https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/servicegateway/tp20-3.PNG
-https://github.com/YASSMINEOUQUELLI12/tp20/blob/main/clientserver/tp20-2.PNG
 
 📚 Concepts clés
 
